@@ -1,0 +1,30 @@
+.YouTube-div
+{
+  margin-top: 15px;
+  margin-left: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: rgb(37, 37, 37);
+  width: 360px;
+}
+p
+{
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.title-text
+{
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.info-text
+{
+
+  width: 340px;
+  color: rgb(160, 160, 160);
+}

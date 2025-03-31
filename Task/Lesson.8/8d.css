@@ -1,0 +1,42 @@
+.signup-button
+{
+  display: block;
+  margin-top: 10px;
+  border: none;
+  background-color: rgb(19, 119, 250);
+  color: aliceblue;
+  width: 314px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size:medium;
+}
+input
+{
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 8px;
+  border-width: 1px;
+  border-color: rgb(200, 200, 200);
+  border-style: solid;
+  font-size: 16 px;
+}
+.pholder-FirstName
+{
+  margin-bottom: 10px;
+  margin-right: 5px;
+  width: 139px;
+
+}
+.pholder-LastName
+{
+  width: 139px;
+
+}
+.pholder-Email
+{
+  display: block;
+  width: 300px;
+}

@@ -1,0 +1,49 @@
+.card
+{
+  width: 200px;
+  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+  display: inline-block;
+  margin-right: 15px;
+}
+.avatar-img
+{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+p
+{
+margin-top: 0px;
+margin-bottom: 0px;
+margin-left: 5px;
+font-family: Arial;
+}
+.name
+{
+ margin-top: 10px;
+ margin-bottom: 5px;
+ font-weight: bold; 
+ font-size: 18px;
+}
+.number-friends
+{
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: rgb(80, 80, 80);
+}
+.add-b
+{
+  margin-left: 5px;
+  margin-bottom: 10px;
+  background-color: rgb(29, 155, 240);
+  border: none;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  vertical-align: middle;
+  cursor: pointer;
+}
